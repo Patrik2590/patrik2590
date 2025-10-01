@@ -12,7 +12,7 @@
 - 📝 Graduado del Instituto Tecnologico Superior Nelson Torres
 - 💬 Ask me about: anything, I am happy to help
 - 	<img src="https://komarev.com/ghpvc/?username=Patrik2590&label=Profile%20views&color=brightgreen&style=plastic" alt="patricio'r profile views" /> 
-	<a href="https://github.com/iscpatricio92?tab=followers"><img src="https://img.shields.io/github/followers/iscpatricio92?label=Followers&style=social" alt="GitHub Badge"></a>
+	<a href="github.com/Patrik2590/patrik2590"><img src="https://img.shields.io/github/followers/iscpatricio92?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br>
 
 ## 💻 Technologies 
@@ -43,7 +43,7 @@
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-
+    &emsp;
     <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
     &emsp;
      <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
@@ -95,11 +95,10 @@
 <p align="left">
   
 <a href="www.linkedin.com/in/jairo-patricio-remache-cuello-7bb7822b5" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="iscpatricio92" height="30" width="40" /></a>
-<a href="mailTo:isc.patrik-remache@hotmail.com" target="blank"> <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="iscpatricio" height="30" width="40" /></a>
-<a href="https://github.com/iscpatricio92" target="blank"> <img align="center" alt="https://github.com/iscpatricio92" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
+<a href="patrik-remache@hotmail.com" target="blank"> <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="iscpatricio" height="30" width="40" /></a>
+<a href="github.com/Patrik2590/patrik2590" target="blank"> <img align="center" alt="https://github.com/iscpatricio92" 
 </p>
 <br>
 
 <br>
 
-Credit:[iscpatricio92](https://github.com/iscpatricio92) Last Edit on 30/09/2025
