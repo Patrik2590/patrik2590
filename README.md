@@ -10,7 +10,7 @@
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - 📫 How to reach me **patrik-remache@hotmail.com**
 - 📝 Graduado del Instituto Tecnologico Superior Nelson Torres
-- 💬 Ask me about: anything, I am happy to help
+- 💬  Pregúntame sobre: ​​cualquier cosa, estaré encantado de ayudarte.
 - 	<img src="https://komarev.com/ghpvc/?username=Patrik2590&label=Profile%20views&color=brightgreen&style=plastic" alt="patricio'r profile views" /> 
 	<a href="github.com/Patrik2590/patrik2590"><img src="https://img.shields.io/github/followers/iscpatricio92?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br>
@@ -96,9 +96,9 @@
   
 <a href="www.linkedin.com/in/jairo-patricio-remache-cuello-7bb7822b5" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="iscpatricio92" height="30" width="40" /></a>
 <a href="patrik-remache@hotmail.com" target="blank"> <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="iscpatricio" height="30" width="40" /></a>
-<a href="github.com/Patrik2590/patrik2590" target="blank"> <img align="center" alt="https://github.com/iscpatricio92" 
+<a href="github.com/Patrik2590/patrik2590" target="blank"> <img align="center" alt="https://github.com/iscpatricio92"></a>
 </p>
 <br>
 
-<br>
+<br>				
 
